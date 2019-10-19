@@ -18,4 +18,7 @@ numbers = [21,43,54,6,67]
 
 print(add-numbers(numbers))
 
+print(subtract-two-numbers(21,54))
+
 print(subtract-two-numbers(54,6))
+
