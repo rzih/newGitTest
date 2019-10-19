@@ -13,3 +13,5 @@ def subtract-two-numbers(num1, num2):
 numbers = [21,43,54,6,67]
 
 print(add-numbers(numbers))
+
+print(subtract-two-numbers(21,54))
