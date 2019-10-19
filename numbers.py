@@ -6,6 +6,10 @@ def add-numbers(numbers):
   for num in numbers:
     sum += num
   return sum
+
+def sort-numbers(numbers):
+  sortedNumbers=[]
+  #TODO: complete this
   
 numbers = [21,43,54,6,67]
 
