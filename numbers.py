@@ -11,6 +11,11 @@ def sort-numbers(numbers):
   sortedNumbers=[]
   #TODO: complete this
   
+def subtract-two-numbers(num1, num2):
+  return abs(num1-num2)
+  
 numbers = [21,43,54,6,67]
 
 print(add-numbers(numbers))
+
+print(subtract-two-numbers(54,6))
