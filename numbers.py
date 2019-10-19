@@ -6,6 +6,9 @@ def add-numbers(numbers):
   for num in numbers:
     sum += num
   return sum
+
+def subtract-two-numbers(num1, num2):
+  return abs(num1-num2)
   
 numbers = [21,43,54,6,67]
 
